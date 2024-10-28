@@ -1,0 +1,10 @@
+.serie-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  .serie-link:hover {
+    color: darkblue;
+  }
+  
